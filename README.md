@@ -11,9 +11,20 @@ The _Game Workshop_ course is 14 weeks long, with youth working for roughly 7 we
 The transition into JavaScript started with the very basics. Even with the content designed specifically to build on existing Scratch skills, our facilitators found that having some _one-to-one_ examples (or as close to that as possible) was extremely beneficial for the youth. Being able to see how a mechanic, or concept, is expressed in Scratch alongside a similar concept written in JavaScript really helped to maintain excitement and deepen understanding.
 
 ## Table of Contents
-... Links to Scratch projects
 
-... Links to p5 projects
+### Links to Scratch Projects
+
+### Links to p5 Sketches
+- [Hello World!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/helloWorld)
+- [Background Changer](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/backgroundChange)
+- [Mouse Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactMouse)
+- [Condtional Statements](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/conditionalOne)
+- [Keypress Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactKeys)
+- [Simple Vertical Motion](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/simpleVertical)
+- [Loops Part One: Without the Loop!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/noLoopDrawing)
+- [Loops Part Two: With the Loop!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/loopDrawing)
+- [Basic Function Drawing](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/functionBasic)
+
 
 ... Have side by side demo
 
