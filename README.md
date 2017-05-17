@@ -38,6 +38,8 @@ One suggestion is to first demo both the Scratch project and then the p5 sketch 
 
 ### Links to Scratch Projects
 
+Here is a link to the entire studio: [Scratch to JS - MakerEd Convening](https://scratch.mit.edu/studios/4036699/). Projects in the studio won't necessarily be in the same order as listed below. Click on the direct links for side by side comparisons, or feel free to explore!
+
 - [Hello World! - Color Switcher](https://scratch.mit.edu/projects/161447388/)
 - [Background Changer - Random Number](https://scratch.mit.edu/projects/161453700/)
 - [Mouse Press - Color Change](https://scratch.mit.edu/projects/161454475/)
@@ -50,7 +52,7 @@ One suggestion is to first demo both the Scratch project and then the p5 sketch 
 - [Hello World!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/helloWorld)
 - [Background Changer - Random Number](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/backgroundChange)
 - [Mouse Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactMouse)
-- [Condtional Statements](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/conditionalOne)
+- [Conditional Statements](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/conditionalOne)
 - [Keypress Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactKeys)
 - [Keypress Motion](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/keyPressMotion)
 - [Simple Vertical Motion](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/simpleVertical)
