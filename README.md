@@ -11,6 +11,9 @@ The _Game Workshop_ course is 14 weeks long, with youth working for roughly 7 we
 The transition into JavaScript started with the very basics. Even with the content designed specifically to build on existing Scratch skills, our facilitators found that having some _one-to-one_ examples (or as close to that as possible) was extremely beneficial for the youth. Being able to see how a mechanic, or concept, is expressed in Scratch alongside a similar concept written in JavaScript really helped to maintain excitement and deepen understanding.
 
 ## Table of Contents
+Here is a collection of links to both the Scratch projects and Scratch studio as well as quick links to the p5 sketches contained in this repo. Many of the Scratch and p5 examples are meant to be presented in tandem with a brief overview/walkthrough of the code structure.
+
+One suggestion is to first demo both the Scratch project and then the p5 sketch to establish a visual point of reference. Next, can be a step by step-by-step overview of the Scratch code structure, emphasizing the logic and block relationships. Then, facilitators can do a walkthrough of the p5 code, pointing out the underlying logic and structure and how it corresponds and relates to the Scratch blocks.
 
 ### Links to Scratch Projects
 
