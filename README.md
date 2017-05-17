@@ -30,15 +30,20 @@ Here is a collection of links to both the Scratch projects and Scratch studio as
 One suggestion is to first demo both the Scratch project and then the p5 sketch to establish a visual point of reference. Next, can be a step by step-by-step overview of the Scratch code structure, emphasizing the logic and block relationships. Then, facilitators can do a walkthrough of the p5 code, pointing out the underlying logic and structure and how it corresponds and relates to the Scratch blocks.
 
 ### Links to Scratch Projects
+- [Hello World! - Color Switcher](https://scratch.mit.edu/projects/161447388/)
+- [Background Changer - Random Number](https://scratch.mit.edu/projects/161453700/)
+- [Mouse Press - Color Change](https://scratch.mit.edu/projects/161454475/)
+- [Conditional Statement - Color Changing Circle](https://scratch.mit.edu/projects/161455913/)
 - [Function Call](https://scratch.mit.edu/projects/150462023/#player)
 -
 
 ### Links to p5 Sketches
 - [Hello World!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/helloWorld)
-- [Background Changer](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/backgroundChange)
+- [Background Changer - Random Number](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/backgroundChange)
 - [Mouse Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactMouse)
 - [Condtional Statements](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/conditionalOne)
 - [Keypress Interaction](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/interactKeys)
+- [Keypress Motion]()
 - [Simple Vertical Motion](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/simpleVertical)
 - [Loops Part One: Without the Loop!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/noLoopDrawing)
 - [Loops Part Two: With the Loop!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/loopDrawing)
