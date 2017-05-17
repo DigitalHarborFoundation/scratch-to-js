@@ -58,8 +58,6 @@ One suggestion is to first demo both the Scratch project and then the p5 sketch 
 - [Loops Part Two: With the Loop!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/loopDrawing)
 - [Basic Function Drawing](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/functionBasic)
 
-... Have side by side demo
-
 ## How to Use These Resources
 
 One way that our facilitators found success with these resources is to show the Scratch example in a walkthrough, and then switch and do a demo and walkthrough of the corresponding p5 sketch. While the correspondence isn't always there, this provided enough of an _anchor_ for the learning and the youth were able to deepen their understanding.
