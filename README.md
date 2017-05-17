@@ -10,12 +10,28 @@ The _Game Workshop_ course is 14 weeks long, with youth working for roughly 7 we
 
 The transition into JavaScript started with the very basics. Even with the content designed specifically to build on existing Scratch skills, our facilitators found that having some _one-to-one_ examples (or as close to that as possible) was extremely beneficial for the youth. Being able to see how a mechanic, or concept, is expressed in Scratch alongside a similar concept written in JavaScript really helped to maintain excitement and deepen understanding.
 
+## Diving In
+When we first started using p5, we used the p5 desktop editor. However, during the course this editor became deprecated. We had our youth continue to use it throughout the course, but we plan to switch to using a text editor such as [Atom - my personal favorite](https://atom.io/) and a live-server package to run sketches. This has the added benefit of giving youth some practice time using a text editor and live server.
+
+However, our program staff also used the _alpha version_ of the [p5.js Web Editor](https://alpha.editor.p5js.org/). This is a super early edition so you may encounter some bugs, but it's a **fantastic** way to dive in and test out some concepts! To do that, follow these quick steps:
+
+1. Navigate to one of the code examples below
+2. Click the _sketch.js_ file
+3. Paste the *entire* file contents into the web editor
+    - Note: Make sure to _select all_ and replace. Don't leave any stray { }!
+4. Click the **Play** icon to run the sketch!
+5. Hit the **Stop** icon when done!
+
+Check out the [Getting Started](https://p5js.org/get-started/) section on the p5js site for a deeper introduction to p5, especially if you're interested in using a text editor/live server.
+
 ## Table of Contents
 Here is a collection of links to both the Scratch projects and Scratch studio as well as quick links to the p5 sketches contained in this repo. Many of the Scratch and p5 examples are meant to be presented in tandem with a brief overview/walkthrough of the code structure.
 
 One suggestion is to first demo both the Scratch project and then the p5 sketch to establish a visual point of reference. Next, can be a step by step-by-step overview of the Scratch code structure, emphasizing the logic and block relationships. Then, facilitators can do a walkthrough of the p5 code, pointing out the underlying logic and structure and how it corresponds and relates to the Scratch blocks.
 
 ### Links to Scratch Projects
+- [Function Call](https://scratch.mit.edu/projects/150462023/#player)
+-
 
 ### Links to p5 Sketches
 - [Hello World!](https://github.com/jonathanprozzi/scratch-to-js/tree/master/sketchbook/helloWorld)
