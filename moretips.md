@@ -14,4 +14,6 @@ On the left of the image is the plane as used in Scratch:
 
 On the right of the image is the plane as used in p5 (and most HTML5 based game development):
 
-This is one of the key considerations for helping youth move from Scratch to p5\. One way that we address this transition is by focusing on the concept of _coordinate motion_ in Scratch, showing that motion in one direction _increments_ the x and y values, and motion in the opposite direction _decrements_ those values. When presented in this way, youth recognize the concept behind coordinate motion and can
+This is one of the key considerations for helping youth move from Scratch to p5\. One way that we address this transition is by focusing on the concept of _coordinate motion_ in Scratch, showing that motion in one direction _increments_ the x and y values, and motion in the opposite direction _decrements_ those values. When presented in this way, youth recognize the concept behind coordinate motion and can transfer their learning into a new coordinate system. Even though the p5 coordinate system is different than Scratch's, youth understand the concept and are able to adapt to the origin being in the top left corner instead of the middle of the canvas.
+
+Spending time with graph paper and having youth create _physical prototypes_ of their sketches helped youth become accustomed to the new origin location. Once they made that conceptual leap, they could leverage their previous knowledge of motion based on incrementing and decrementing x and y values.
