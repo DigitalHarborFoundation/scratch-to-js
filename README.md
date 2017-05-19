@@ -28,6 +28,10 @@ However, our program staff also used the _alpha version_ of the [p5.js Web Edito
 
 5. Hit the **Stop** icon when done!
 
+The key benefit of using the web editor is that the interface is similar to Scratch in that there is a Play button to run your program and a Stop button to end it. This is conceptually similar to the Green Flag/Red Stop Sign in Scratch, and is also a great way to quickly demonstrate code.
+
+The web editor is also a great way to prototype some ideas or to jump in and start experimenting with p5! Lots can be learned by tweaking and _playing_ with the code, so I'd encourage you to have new learners jump right in! This removes the additional complexity of setting up a text editor and running a preview server. However, there is much room for additional learning around those concepts. Our youth did use a text editor and live server in previous JavaScript courses and there is lots of benefit to this approach.
+
 Check out the [Getting Started](https://p5js.org/get-started/) section on the p5js site for a deeper introduction to p5, especially if you're interested in using a text editor/live server.
 
 ## Table of Contents

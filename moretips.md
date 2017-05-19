@@ -1,0 +1,17 @@
+# Additional Tips, Tricks, and Lessons Learned
+
+## Overview
+
+The README was growing too large so I decided to separate some resources into a separate Markdown file. Several Scratch projects and p5 sketches are linked in the Table of Contents section of that document. I wanted to include some additional _gotchas_ and _lessons learned_ that came up as we helped youth transition from Scratch to JavaScript. Let's dive in!
+
+## The Coordinate Plane
+
+One of the biggest _gotchas_ is related to the **Coordinate Plane**. When our youth first learn about sprite motion in Scratch, we teach horizontal and vertical motion as shifts along the coordinate plane.
+
+On the left of the image is the plane as used in Scratch:
+
+![Coordinate Plane - Scratch](http://learn.digitalharbor.org/wp-content/uploads/2015/06/Screen-Shot-2015-06-22-at-2.15.41-PM.png)
+
+On the right of the image is the plane as used in p5 (and most HTML5 based game development):
+
+This is one of the key considerations for helping youth move from Scratch to p5\. One way that we address this transition is by focusing on the concept of _coordinate motion_ in Scratch, showing that motion in one direction _increments_ the x and y values, and motion in the opposite direction _decrements_ those values. When presented in this way, youth recognize the concept behind coordinate motion and can
