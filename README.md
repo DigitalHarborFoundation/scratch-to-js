@@ -82,7 +82,7 @@ Scratch allows for teaching programming concepts and computational thinking whil
 
 ## Next Steps
 
-Once the core foundations have been established, youth can create (or recreate!) their Scratch projects in p5\. The p5.play library helps greatly with this as it handles some of the heavy lifting behind the scenes. If youth really absorb the basics and are looking to continue with JavaScript game development, there are other powerful frameworks and libraries that can be used as the next step. One such framework is [Phaser.io](http://phaser.io/).
+Once the core foundations have been established, youth can create (or recreate!) their Scratch projects in p5\. The p5.play library helps greatly with this as it handles some of the heavy lifting behind the scenes. If youth really absorb the basics and are looking to continue with JavaScript game development, there are other powerful frameworks and libraries that can be used as the next step. One such framework is [Phaser.io](http://phaser.io/). Additionally, here are some additional tips and tricks learned from our process: [More Tips!](https://github.com/jonathanprozzi/scratch-to-js/blob/master/moretips.md).
 
 --------------------------------------------------------------------------------
 
